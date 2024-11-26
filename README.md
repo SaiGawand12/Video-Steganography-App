@@ -62,9 +62,9 @@ cd Video-Steganography-App
 Create a virtual environment to manage dependencies.
 
 ```bash
-python -m venv env
+python -m venv venv
 source env/bin/activate       # For Linux/Mac
-env\Scripts\activate          # For Windows
+venv\Scripts\activate          # For Windows
 ```
 
 ### 3. Install Dependencies
